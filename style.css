@@ -410,8 +410,8 @@ footer {
 
 /* Projects and Credentials */
 .role-card img {
-    width: 48px;
-    height: 48px;
+    width: 100px;
+    height: 100px;
     margin-bottom: 1.5rem;
     object-fit: contain;
 }
